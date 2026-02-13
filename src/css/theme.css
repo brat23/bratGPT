@@ -1,0 +1,27 @@
+:root {
+    --primary-color: #007ACC;
+    --secondary-color: #C586C0;
+    --background-color: #1E1E1E;
+    --text-color: #D4D4D4;
+    --panel-background: #1E1E1E;
+    --header-background: #252526;
+    --border-color: #333333;
+    --highlight-background: rgba(0, 122, 204, 0.2);
+    --interactive-demo-background: #252526;
+    --code-header-background: #252526;
+    --line-number-color: #858585;
+    --keyword-color: #C586C0;
+    --class-name-color: #4EC9B0;
+    --function-color: #DCDCAA;
+    --string-color: #CE9178;
+    --comment-color: #6A9955;
+    --number-color: #B5CEA8;
+    --operator-color: #D4D4D4;
+    --flow-box-brain-background: #667eea;
+    --flow-box-driver-background: #ff6b6b;
+    --flow-box-trainer-background: #6bcf7f;
+    --flow-box-final-background: #DCDCAA;
+    --flow-box-final-color: #1E1E1E;
+    --flow-arrow-color: #DCDCAA;
+    --step-box-border-color: #C586C0;
+}

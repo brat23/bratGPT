@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🤖 How GPT Works - Complete Journey!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css">
+    <link rel="stylesheet" href="src/css/main.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <div class="progress-bar" id="progress"></div>
+
+    <div class="container">
+        <!-- LEFT PANEL - GAMIFIED LEARNING -->
+        <div class="left-panel">
+            <div class="header">
+                <h1>🤖 GPT's Complete Journey!</h1>
+                <p style="font-size: 1.2em;">From Code to Magic ✨</p>
+            </div>
+
+            <div class="stage-content">
+                <div class="stage-info" id="stage-info">
+                    <!-- Content will be dynamically loaded -->
+                </div>
+            </div>
+
+            <div class="navigation">
+                <button class="nav-btn" id="prev-btn">⬅️ Back</button>
+                <button class="nav-btn" id="next-btn">Next ➡️</button>
+            </div>
+        </div>
+
+        <div class="resizer" id="resizer">
+            <div class="panel-toggles">
+                <button id="toggle-left">⬅️</button>
+                <button id="toggle-right">➡️</button>
+            </div>
+        </div>
+
+        <!-- RIGHT PANEL - CODE VIEWER -->
+        <div class="right-panel">
+            <div class="code-header">
+                <h2>📝 The Actual Python Code</h2>
+                <p style="color: #aaa; font-size: 0.9em;">Lines highlighted match the current lesson</p>
+            </div>
+
+            <div class="code-viewer" id="code-viewer">
+                <!-- Code will be dynamically loaded -->
+            </div>
+        </div>
+    </div>
+
+    <script src="src/js/main.js" type="module"></script>
+</body>
+</html>
