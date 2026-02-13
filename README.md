@@ -4,12 +4,11 @@ An immersive, gamified, and fully commented journey to understand the architectu
 
 ---
 
-### ✨ [Live Demo - Click Here!](https://your-github-username.github.io/how-gpt-works/)
+### ✨ [Live Demo - Click Here!](https://brat23.github.io/bratGPT/)
 
-*(Replace the link above with your live GitHub Pages URL after deployment!)*
+*(Note: For the live demo to work, you must enable GitHub Pages in your repository settings.)*
 
-![Project Screenshot](https://i.imgur.com/your-screenshot-url.png) 
-*(Suggestion: Add a screenshot of the project here.)*
+![Project Screenshot](Screenshot.png) 
 
 ---
 
@@ -61,11 +60,11 @@ This is a pure HTML, CSS, and JavaScript project. No complex setup is required!
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-github-username/how-gpt-works.git
+    git clone https://github.com/brat23/bratGPT.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd how-gpt-works
+    cd bratGPT
     ```
 3.  **Open `index.html` in your browser:**
     - You can simply double-click the `index.html` file.
