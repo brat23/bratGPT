@@ -128,6 +128,10 @@ https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95
 
 https://gist.github.com/karpathy
 
+also variants of that with
+
+https://github.com/Kuberwastaken/picogpt
+
 ## 🌟 Future Scope & Contributing
 
 This project is a great foundation. Here are some ideas for future improvements:
